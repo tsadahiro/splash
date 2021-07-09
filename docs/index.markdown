@@ -5,4 +5,11 @@
 layout: home
 ---
 
-test
+<script src="main.js"></script>
+
+<div id="myapp"></div>
+  <script>
+  var app = Elm.Main.init({
+    node: document.getElementById('myapp')
+  });
+</script>
