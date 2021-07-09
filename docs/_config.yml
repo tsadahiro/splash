@@ -30,8 +30,8 @@ url: "https://tsadahiro.github.io" # the base hostname & protocol for your site,
 github_username:  tsadahiro
 
 # Build settings
-#theme: minima
-theme: jekyll-theme-cayman
+theme: minima
+#theme: jekyll-theme-cayman
 plugins:
   - jekyll-feed
 
